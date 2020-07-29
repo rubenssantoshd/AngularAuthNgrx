@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+##Pacotes do projeto:
+npm install --save firebase @angular/fire faker
+firebase
+@angular/fire
+faker 
+
+npm i --save  @angular/flex-layout@9.0.0-beta.31
+@angular/flex-layout
+
+npm install @types/faker --save-dev
+@types/faker --save-dev
+
+ng add @angular/material@9.2.4
+ng add @angular/material
+
+
